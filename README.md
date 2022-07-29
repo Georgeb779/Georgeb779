@@ -1,3 +1,12 @@
+
+<div style="
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+">
+<img style="max-width: 50% !important;" src="https://ik.imagekit.io/hoa6us8np/gummy-coding__1__LbafRPEaj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659103251029" alt="banner" />
+</div>
+
 <h1 align="center">Hi 👋, I'm George Báez</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 
