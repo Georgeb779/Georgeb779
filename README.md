@@ -3,7 +3,7 @@
 <img  width=50% height=50% src="https://ik.imagekit.io/hoa6us8np/gummy-coding__1__LbafRPEaj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659103251029" alt="banner" />
 </div>
 
-<h1 align="center">Hi 👋, I'm George Báez</h1>
+<h1 align="center">Hi 👋🏽, I'm George Báez</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeb779&label=Profile%20views&color=0e75b6&style=flat" alt="georgeb779" /> </p>
