@@ -1,6 +1,6 @@
 
 <div align="center">
-<img  width=50% height=50% src="https://ik.imagekit.io/hoa6us8np/GitHub/gummy-coding__1__LbafRPEaj.png?updatedAt=1659363492579" alt="banner" />
+<img  width=424px height=325px src="https://ik.imagekit.io/hoa6us8np/GitHub/gummy-coding__1__LbafRPEaj.png?updatedAt=1659363492579" alt="banner"  />
 </div>
 
 <h1 align="center">Hi 👋🏽, I'm George Báez</h1>
