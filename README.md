@@ -10,10 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **React, Next.js, Tailwind.css and other topics related to frontend**
-
-- 📫 How to reach me **georgebaez123@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/george-b%c3%a1ez-a1b71b143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="george-b%c3%a1ez-a1b71b143/" height="30" width="40" /></a>
